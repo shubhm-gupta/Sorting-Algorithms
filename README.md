@@ -5,7 +5,7 @@
 
 - Insertion sort
 - Merge sort
-- In-place quicksort (any random item or the first or the last item of your input can be pivot).
+- In-place quicksort (any random item or the first or the last item of input can be pivot).
 - Modified quicksort
     - a. Use median-of-three as pivot.
     - b. For small subproblem size (≤10), using insertion sort.
